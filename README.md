@@ -1,7 +1,15 @@
 
+O SQL possui uma sintaxe simples e intuitiva, o que facilita o aprendizado e uso da linguagem. 
+Comandos como SELECT, INSERT e UPDATE são de fácil compreensão e permitem a manipulação dos dados de forma clara e direta
+
+![Alt text](https://res.cloudinary.com/dsiexpoig/image/upload/v1718037389/CapaModelagemSQL_wfv5gp.png)
+
 MySQL Workbench é uma ferramenta de design de banco de dados visual que integra desenvolvimento SQL, administração, design de banco de dados, 
 criação e manutenção em um único ambiente de desenvolvimento integrado para o sistema de banco de dados MySQL.
 
-![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1718035200000/nlv2sSBxwNGDpQkpxC3W0Q/IWBfXtrs6jmSxZyy4HtIG3HzxhMgZtFltk974CbVszQQ9JOr8ghvt4qqBluQ82unEuF08S3nti6MSH0m3aNg7w9zpPp5t7NoCDUSPq_lRLo_tn8k7kvQYrMenPx-biqgXyIbU4OUiFCxI0iAo8eHXHeg84YLOkJvpcYp4bd4cj8/raFUSHzRg0E5N1tbzqYtJqyzLRnO7sMWxkT2IX7VX-k)
+![Alt text](https://res.cloudinary.com/dsiexpoig/image/upload/v1718037649/Workbench_ng6you.png)
 
-![Alt text](https://v5.airtableusercontent.com/v3/u/29/29/1718035200000/Btu7jvrj0lDPzgH-KNdrWQ/128dtAp6Rk8YQeBuAE9XJd0aNDcl7ozUT12E8sLlZDa93O80Jonz5r5nkAsl0DRAU0yozDs5efc8vuZN3WAtcYGTrCk30z2r-1OqvsqbBZSS-7Rurki13JZrRM3qCmggaRQLb9zC69grpDNZoOp9uQ/BpnGug2OmR-mGC8Ja_p1D_dPS5RABNiJn2h1xdFZuuY)
+ SCHEMA é utilizado para descrever a estrutura lógica do banco de dados, ou seja, a organização das tabelas, relacionamentos, índices, etc. Já o termo DATABASE é utilizado para se referir ao conjunto de dados armazenados em um sistema de gerenciamento de banco de dados.
+
+![Alt text](https://res.cloudinary.com/dsiexpoig/image/upload/v1718037648/oracle_k3otxj.jpg)
+
